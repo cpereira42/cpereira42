@@ -17,5 +17,5 @@ Nowadays I am studing software engineering at 42 Sao Paulo.
 - 💬 Ask me things about PHP language<br>
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:cezaracp1a@gmail.com)](mailto:cezaracp1@gmail.com)<br>
-on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cezar-augusto-de-castilho-pereira-0983634a/)](https://www.linkedin.com/in/cezar-augusto-de-castilho-pereira-0983634a/)<br>
+on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/cpereira42/)](https://www.linkedin.com/in/cpereira42/)<br>
 
