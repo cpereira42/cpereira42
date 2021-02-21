@@ -9,7 +9,7 @@
 </center>
 
 
-My name is Cezar, I have a degree in Industrial Electronics (SENAI) and Information Systems (UniRadial).
+My name is Cezar, I have a degree in Industrial Electronics (SENAI) and Information Systems (UniRadial).<bR>
 Nowadays I am studing software engineering at 42 Sao Paulo.
 
 - 🔭 I’m currently working on 42's libasm project<br>
