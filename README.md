@@ -12,7 +12,7 @@
 My name is Cezar, I have a degree in Industrial Electronics (SENAI) and Information Systems (UniRadial).<bR>
 Nowadays I am studing software engineering at 42 Sao Paulo.
 
-- 🔭 I’m currently working on 42's Minishell project<br>
+- 🔭 I’m currently working on 42's CPP piscine<br>
 - 🌱 I’m currently learning C, assembly and swift<br>
 - 💬 Ask me things about PHP language<br>
 - 📫 How to reach me:<br>
